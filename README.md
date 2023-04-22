@@ -4,7 +4,7 @@
 </div>
 
 <!-- About section -->
-I am currently a student of Computer Engineering 💻 at the Universidad Autonoma Metropolitana in Mexico City. I like to learn new things and do projects 🤔 in my free time and I am of the idea that NeoVim will conquer the world as the best and unique text editor 👑.
+I am currently a student of Computer Engineering 💻 at the Universidad Autónoma Metropolitana in Mexico City. I like to learn new things and do projects in my free time 🤔, my favorite programming language is Python 🐍 and I am of the idea that NeoVim will conquer the world as the best and unique text editor 👑.
 <br/>
 <br/>
   
