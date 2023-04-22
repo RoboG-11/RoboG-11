@@ -9,10 +9,10 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autonom
 <br/>
 <br/>
   
+## > <code>⠀⠀🧐 More About Me⠀⠀</code>
 <!-- More About Me section -->
 <img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/596a0fa2bebafbf177669597/1535718089167-H0CBI725K14HBT1I58VG/programming.gif" width="500"/>
   
-## > <code>⠀⠀🧐 More About Me⠀⠀</code>
 * I like to solve programming problems.
 * I like algorithms and data structures.
 * I like anime.
