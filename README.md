@@ -10,7 +10,7 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autóno
 <br/>
   
 <!-- More About Me section -->
-## > <code>⠀⠀🧐 More About Me⠀⠀</code>
+## > <code>⠀⠀🧐 More About Me⠀⠀</code> <a href="https://github.com/RoboG-11" title="Tanjiro"><img src="IMG/Tanjiro.gif" width="54px"/></a>
 <img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/596a0fa2bebafbf177669597/1535718089167-H0CBI725K14HBT1I58VG/programming.gif" width="400"/>
   
 * I like to solve programming problems.
@@ -25,7 +25,7 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autóno
 <br/>
   
 <!-- Languages and Technologies -->
-## > <code>⠀⠀💻 Programming languages and technologies I have used⠀⠀</code>
+## > <code>⠀⠀💻 Programming languages and technologies I have used⠀⠀</code> <a href="https://github.com/RoboG-11" title="Goku"><img src="IMG/Goku.gif" width="54px"/></a>
 <a href="https://www.python.org/" title="Python"><img src="IMG/Python.png" width="54px"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="IMG/HTML5.png" width="59px"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="IMG/CSS3.png" width="43px"/></a>
@@ -41,6 +41,7 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autóno
 <br/>
   
 <!-- Activity -->
-## > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
+## > <code>⠀⠀💼⠀⠀Activity⠀⠀</code> <a href="https://github.com/RoboG-11" title="Satoru"><img src="IMG/Satoru.gif" width="54px"/></a>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RoboG-11&theme=high-contrast)](https://github.com/RoboG-11)
+Activity Graph provided by [Ashutosh Dwivedi](https://github.com/Ashutosh00710/github-readme-activity-graph).
 <br/>
