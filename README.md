@@ -43,5 +43,5 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autóno
 <!-- Activity -->
 ## > <code>⠀⠀💼⠀⠀Activity⠀⠀</code> <a href="https://github.com/RoboG-11" title="Satoru"><img src="IMG/Satoru.gif" width="50px"/></a>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RoboG-11&theme=high-contrast)](https://github.com/RoboG-11)
-Activity Graph provided by [Ashutosh Dwivedi](https://github.com/Ashutosh00710/github-readme-activity-graph).
+𝘈𝘤𝘵𝘪𝘷𝘪𝘵𝘺 𝘎𝘳𝘢𝘱𝘩 𝘱𝘳𝘰𝘷𝘪𝘥𝘦𝘥 𝘣𝘺 [𝘈𝘴𝘩𝘶𝘵𝘰𝘴𝘩 𝘋𝘸𝘪𝘷𝘦𝘥𝘪](https://github.com/Ashutosh00710/github-readme-activity-graph).
 <br/>
