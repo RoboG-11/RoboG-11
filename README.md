@@ -1,3 +1,4 @@
+<!-- Presentation section -->
 <div align="center">
   <a href="https://git.io/typing-svg">
   <h1>Hey <a href="https://github.com/RoboG-11"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Brian</h1>
@@ -8,8 +9,8 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autóno
 <br/>
 <br/>
   
-## > <code>⠀⠀🧐 More About Me⠀⠀</code>
 <!-- More About Me section -->
+## > <code>⠀⠀🧐 More About Me⠀⠀</code>
 <img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/596a0fa2bebafbf177669597/1535718089167-H0CBI725K14HBT1I58VG/programming.gif" width="475"/>
   
 * I like to solve programming problems.
