@@ -7,11 +7,10 @@
 I am currently a student of Computer Engineering 💻 at the Universidad Autonoma Metropolitana in Mexico City. I like to learn new things and do projects 🤔 in my free time and I am of the idea that NeoVim will conquer the world as the best and unique text editor 👑.
 <br/>
 <br/>
-<br/>
   
 ## > <code>⠀⠀🧐 More About Me⠀⠀</code>
 <!-- More About Me section -->
-<img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/596a0fa2bebafbf177669597/1535718089167-H0CBI725K14HBT1I58VG/programming.gif" width="500"/>
+<img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/596a0fa2bebafbf177669597/1535718089167-H0CBI725K14HBT1I58VG/programming.gif" width="475"/>
   
 * I like to solve programming problems.
 * I like algorithms and data structures.
@@ -21,7 +20,9 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autonom
 * I am a Checo Lover.
 * My favorite text editor is NeoVim.
 <br/>
-
+<br/>
+<br/>
+  
 <!-- Languages and Technologies -->
 ## > <code>⠀⠀💻 Programming languages and technologies I have used⠀⠀</code>
 <a href="https://www.python.org/" title="Python"><img src="IMG/Python.png" width="54px"/></a>
@@ -41,5 +42,4 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autonom
 <!-- Activity -->
 ## > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RoboG-11&theme=high-contrast)](https://github.com/RoboG-11)
-<br/>
 <br/>
