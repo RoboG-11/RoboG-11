@@ -11,7 +11,7 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autóno
   
 <!-- More About Me section -->
 ## > <code>⠀⠀🧐 More About Me⠀⠀</code>
-<img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/596a0fa2bebafbf177669597/1535718089167-H0CBI725K14HBT1I58VG/programming.gif" width="475"/>
+<img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/596a0fa2bebafbf177669597/1535718089167-H0CBI725K14HBT1I58VG/programming.gif" width="400"/>
   
 * I like to solve programming problems.
 * I like algorithms and data structures.
