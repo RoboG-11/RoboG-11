@@ -35,7 +35,7 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autonom
 <a href="https://git-scm.com/" title="Git"><img src="IMG/Git.png" width="60px"/></a>
 <a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img src="IMG/SQL.png" width="120px"/></a>
 <a href="https://www.mysql.com/" title="SQL"><img src="IMG/MySQL.png" width="110px"/></a>
-<a href="https://www.figma.com/" title="SQL"><img src="IMG/figma.png" width="37px"/></a>
+<a href="https://www.figma.com/" title="Figma"><img src="IMG/figma.png" width="37px"/></a>
 <br/>
 <br/>
   
