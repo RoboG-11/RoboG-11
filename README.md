@@ -23,7 +23,7 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autonom
 <br/>
 
 <!-- Languages -->
-## 💻 Programming languages I have used.
+## > <code>⠀⠀💻 Programming languages I have used⠀⠀</code>
 <a href="https://www.python.org/" title="Python"><img src="IMG/Python.png" width="54px"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="IMG/HTML5.png" width="59px"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="IMG/CSS3.png" width="43px"/></a>
@@ -36,6 +36,6 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autonom
 <br/>
 <br/>
   
-# > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
+## > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RoboG-11&theme=high-contrast)](https://github.com/RoboG-11)
 
