@@ -25,14 +25,14 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autonom
 <!-- Languages -->
 ## 💻 Programming languages I have used.
 <a href="https://www.python.org/" title="Python"><img src="IMG/Python.png" width="54px"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="IMG/HTML5.png" width="53px"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="IMG/CSS3.png" width="38px"/></a>
-<a href="https://www.python.org/" title="JavaScript"><img src="IMG/JavaScript.png" width="54px"/></a>
-<a href="https://www.php.net/" title="PHP"><img src="IMG/PHP.png" width="97px"/>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="IMG/c.png" width="54px"/>
-<a href="https://www.markdownguide.org/" title="Markdown"><img src="IMG/Markdown.png" width="79px"/></a>
-<a href="https://git-scm.com/" title="Git"><img src="IMG/Git.png" width="50px"/></a>
-<a href="https://www.mysql.com/" title="SQL"><img src="IMG/SQL.png" width="95px"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="IMG/HTML5.png" width="59px"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="IMG/CSS3.png" width="43px"/></a>
+<a href="https://www.python.org/" title="JavaScript"><img src="IMG/JavaScript.png" width="59px"/></a>
+<a href="https://www.php.net/" title="PHP"><img src="IMG/PHP.png" width="100px"/>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="IMG/c.png" width="65px"/>
+<a href="https://www.markdownguide.org/" title="Markdown"><img src="IMG/Markdown.png" width="90px"/></a>
+<a href="https://git-scm.com/" title="Git"><img src="IMG/Git.png" width="60px"/></a>
+<a href="https://www.mysql.com/" title="SQL"><img src="IMG/SQL.png" width="120px"/></a>
 <br/>
 <br/>
   
