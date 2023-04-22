@@ -22,8 +22,8 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autonom
 * My favorite text editor is NeoVim.
 <br/>
 
-<!-- Languages -->
-## > <code>⠀⠀💻 Programming languages I have used⠀⠀</code>
+<!-- Languages and Technologies -->
+## > <code>⠀⠀💻 Programming languages and technologies I have used⠀⠀</code>
 <a href="https://www.python.org/" title="Python"><img src="IMG/Python.png" width="54px"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="IMG/HTML5.png" width="59px"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="IMG/CSS3.png" width="43px"/></a>
@@ -32,7 +32,9 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autonom
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="IMG/c.png" width="65px"/>
 <a href="https://www.markdownguide.org/" title="Markdown"><img src="IMG/Markdown.png" width="90px"/></a>
 <a href="https://git-scm.com/" title="Git"><img src="IMG/Git.png" width="60px"/></a>
-<a href="https://www.mysql.com/" title="SQL"><img src="IMG/SQL.png" width="120px"/></a>
+<a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img src="IMG/SQL.png" width="120px"/></a>
+<a href="https://www.mysql.com/" title="SQL"><img src="IMG/MySQL.png" width="120px"/></a>
+<a href="https://www.figma.com/" title="SQL"><img src="IMG/figma.png" width="60px"/></a>
 <br/>
 <br/>
   
@@ -41,6 +43,3 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autonom
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RoboG-11&theme=high-contrast)](https://github.com/RoboG-11)
 <br/>
 <br/>
-  
-<!-- Technologies -->
-## > <code>⠀⠀👩‍💻⠀⠀Technologies⠀⠀</code>
