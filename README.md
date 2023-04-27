@@ -29,7 +29,7 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autóno
 <div align="center">
   <a href="https://www.python.org/" title="Python"><img src="IMG/python.svg" width="54px"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="IMG/c.svg" width="54px"/>
-  <a href="https://www.php.net/" title="PHP"><img src="IMG/php.svg" width="69px"/>
+  <a href="https://www.php.net/" title="PHP"><img src="IMG/php.svg" width="80px"/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="IMG/html5.svg" width="54px"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="IMG/css3.svg" width="54px"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="IMG/javascript.svg" width="54px"/></a>
