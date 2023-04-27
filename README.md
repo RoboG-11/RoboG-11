@@ -31,7 +31,7 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autóno
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="IMG/c.svg" width="65px"/>
   <a href="https://www.php.net/" title="PHP"><img src="IMG/php.svg" width="100px"/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="IMG/html5.svg" width="59px"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="IMG/css.svg" width="43px"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="IMG/css3.svg" width="43px"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="IMG/javascript.svg" width="59px"/></a>
   <a href="https://git-scm.com/" title="Git"><img src="IMG/git.svg" width="60px"/></a>
   <a href="https://www.mysql.com/" title="SQL"><img src="IMG/mysql.svg" width="110px"/></a>
