@@ -35,7 +35,7 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autóno
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="IMG/javascript.svg" width="54px"/></a>
   <a href="https://git-scm.com/" title="Git"><img src="IMG/git.svg" width="54px"/></a>
   <a href="https://www.mysql.com/" title="SQL"><img src="IMG/mysql.svg" width="54px"/></a>
-  <a href="https://www.markdownguide.org/" title="Markdown"><img src="IMG/markdown.svg" width="65px"/></a>
+  <a href="https://www.markdownguide.org/" title="Markdown"><img src="IMG/Markdown.svg.png" width="65px"/></a>
   <a href="https://www.figma.com/" title="Figma"><img src="IMG/figma.svg" width="54px"/></a>
 </div>
 <br/>
