@@ -1,10 +1,10 @@
-<!-- Presentation section -->
+<!-- Presentation Section -->
 <div align="center">
   <a href="https://git.io/typing-svg">
   <h1>Hey <a href="https://github.com/RoboG-11"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Brian</h1>
 </div>
 
-<!-- About section -->
+<!-- About Section -->
 I am currently a student of Computer Engineering 💻 at the Universidad Autónoma Metropolitana in Mexico City. I like to learn new things and do projects in my free time 🤔, my favorite programming language is Python 🐍 and I am of the idea that NeoVim will conquer the world as the best and unique text editor 👑.
 <br/>
 <br/>
