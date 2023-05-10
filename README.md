@@ -25,7 +25,7 @@ I am currently a student of Computer Engineering 💻 at the Universidad Autóno
 <br/>
   
 <!-- Languages and Technologies -->
-## > <code>⠀⠀💻 Programming languages and technologies I have used⠀⠀</code>  <a href="https://en.wikipedia.org/wiki/Dragon_Ball" title="Goku"><img src="IMG/Goku.gif" width="20px"/></a>
+## > <code>⠀⠀💻 Programming languages and technologies I have used⠀⠀</code>  <a href="https://en.wikipedia.org/wiki/Dragon_Ball" title="Goku"><img src="IMG/Goku.gif" width="23px"/></a>
 <div align="center">
   <a href="https://www.python.org/" title="Python"><img src="IMG/python.svg" width="54px"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="IMG/c.svg" width="54px"/>
