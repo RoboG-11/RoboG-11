@@ -21,7 +21,8 @@
   </div>
 
   <p>
-    💻 I'm a <code>Software Engineer</code> studying <code>Computer Engineering</code> at the <code>Autonomous Metropolitan University</code>.<br>
+    💻 I'm a <code>Software Engineer</code>. <br>
+    🏫 I'm studying <code>Computer Engineering</code> at the <code>Autonomous Metropolitan University</code>.<br>
     🏙️ I live in Cuajimalpa, Mexico City.<br>
     🚀 Passionate about learning <code>new technologies</code> and working on <code>personal projects</code>.<br>
     🐍 <code>Python</code> is my favorite programming language.<br>
@@ -46,6 +47,7 @@
       <a href="https://github.com/RoboG-11"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="py" width="75" height="75"></a>
       <a href="https://github.com/RoboG-11"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="c" width="75" height="75"></a>
       <a href="https://github.com/RoboG-11"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="php" width="75" height="75"></a>
+      <a href="https://github.com/RoboG-11"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="docker" width="75" height="75"></a>
     </div>
     <div style="display: flex; flex-direction: column; gap: 15px;">
       <a href="https://github.com/RoboG-11"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="react" width="75" height="75"></a>
@@ -55,6 +57,7 @@
       <a href="https://github.com/RoboG-11"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="git" width="75" height="75"></a>
       <a href="https://github.com/RoboG-11"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" alt="laravel" width="75" height="75"></a>
       <a href="https://github.com/RoboG-11"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="django" width="75" height="75"></a>
+      <a href="https://github.com/RoboG-11"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" alt="redis" width="75" height="75"></a>
     </div>
   </div>
 </section>
