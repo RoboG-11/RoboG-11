@@ -1,14 +1,17 @@
 <!-- Presentation section -->
 <section align="center" style="display: flex; align-items: center;">
-  <a href="https://github.com/RoboG-11">
-    <img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=23&duration=4000&pause=102&color=E6D5AC&background=006EFF00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=75&lines=Hello+World%2C+I'm+Brian;Welcome+to+my+profile+%3AD" style="max-width: 100%; max-height: 75px;" />
+  <a href="https://github.com/RoboG-11" style="height: 75px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=23&duration=4000&pause=102&color=E6D5AC&background=006EFF00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=75&lines=Hello+World%2C+I'm+Brian;Welcome+to+my+profile+%3AD" 
+         style="width: 600px; height: 75px; object-fit: cover;" />
   </a>
   
-  <a href="https://github.com/RoboG-11">
-    <img src="https://i.pinimg.com/originals/ae/66/a7/ae66a76fc2050ab30c4166909622c8d2.gif" style="max-width: 829px; max-height: 446px;" />
+  <a href="https://github.com/RoboG-11" style="height: 446px;">
+    <img src="https://i.pinimg.com/originals/ae/66/a7/ae66a76fc2050ab30c4166909622c8d2.gif" 
+         style="width: 829px; height: 446px; object-fit: cover;" />
   </a>
 </section>
 <br/>
+
 
 
 <!-- About me section -->
