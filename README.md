@@ -2,12 +2,12 @@
 <section align="center" style="display: flex; align-items: center;">
   <a href="https://github.com/RoboG-11" style="height: 75px;">
     <img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=23&duration=4000&pause=102&color=E6D5AC&background=006EFF00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=75&lines=Hello+World%2C+I'm+Brian;Welcome+to+my+profile+%3AD" 
-         style="width: 600px; height: 75px; object-fit: cover;" />
+         style="max-width: 600px; height: 75px; object-fit: cover;" />
   </a>
   
-  <a href="https://github.com/RoboG-11" style="height: 446px;">
-    <img src="https://i.pinimg.com/originals/ae/66/a7/ae66a76fc2050ab30c4166909622c8d2.gif" 
-         style="width: 829px; height: 446px; object-fit: cover;" />
+  <a href="https://github.com/RoboG-11" style="width: 100%; max-width: 829px; height: auto;">
+    <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" 
+         style="width: 100%; height: auto; object-fit: cover;" />
   </a>
 </section>
 <br/>
@@ -25,13 +25,13 @@
 
   <p>
     💻 I'm a <code>Software Engineer</code>. <br>
-    🏫 I'm studying <code>Computer Engineering</code> at the <code>Autonomous Metropolitan University</code>.<br>
-    🏙️ I live in Cuajimalpa, Mexico City.<br>
+    🏫 I'm studying <code>Computer Engineering</code> at the <code>Universidad Autónoma Metropolitana</code>.<br>
+    🏙️ I live in Mexico City, Mexico.<br>
     🚀 Passionate about learning <code>new technologies</code> and working on <code>personal projects</code>.<br>
     🐍 <code>Python</code> is my favorite programming language.<br>
     👑 I strongly believe that <code>NeoVim</code> will be the ultimate text editor.<br>
     ⚽ Fan of <code>FC Barcelona</code>, <code>anime</code> 🎌, and <code>video games</code> 🎮.<br>
-    🧠 Eager to learn <code>Rust</code> 🦀, <code>Go</code> 🦘, <code>Machine Learning</code> 🤖, and other fascinating topics.<br>
+    🧠 Eager to learn <code>Rust</code> 🦀, <code>Go</code> 🦘, <code>Artificial Intelligence</code> 🤖, and other fascinating topics.<br>
   </p>
   <br/>
 </div>
