@@ -22,7 +22,7 @@
   <div>
     <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw1NTQ3bml6bHlwa2VkMm1lN3BkdHl4cTQ4Y3dvcnpjcTB3eWg3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzcYzbp8BZmwWTUPFa/giphy.webp" style="width: 175px;"/>
   </div>
-
+  
   <p>
     💻 I'm a <code>Software Engineer</code>. <br>
     🏫 I'm studying <code>Computer Engineering</code> at the <code>Universidad Autónoma Metropolitana</code>.<br>
@@ -30,8 +30,9 @@
     🚀 Passionate about learning <code>new technologies</code> and working on <code>personal projects</code>.<br>
     🐍 <code>Python</code> is my favorite programming language.<br>
     👑 I strongly believe that <code>NeoVim</code> will be the ultimate text editor.<br>
-    ⚽ Fan of <code>FC Barcelona</code>, <code>anime</code> 🎌, and <code>video games</code> 🎮.<br>
     🧠 Eager to learn <code>Rust</code> 🦀, <code>Go</code> 🦘, <code>Artificial Intelligence</code> 🤖, and other fascinating topics.<br>
+    🌟 Contributing to <code>Open Source</code> projects and sharing knowledge with the community.<br>
+    ⚽ Fan of <code>FC Barcelona</code>, <code>anime</code> 🎌, and <code>video games</code> 🎮.<br>
   </p>
   <br/>
 </div>
