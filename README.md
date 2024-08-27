@@ -26,7 +26,7 @@
   <p>
     💻 I'm a <code>Software Engineer</code>. <br>
     🏫 I'm studying <code>Computer Engineering</code> at the <code>Universidad Autónoma Metropolitana</code>.<br>
-    🏙️ I live in Mexico City, Mexico.<br>
+    🏙️ I live in Mexico City, <code>Mexico</code>.<br>
     🚀 Passionate about learning <code>new technologies</code> and working on <code>personal projects</code>.<br>
     🐍 <code>Python</code> is my favorite programming language.<br>
     👑 I strongly believe that <code>NeoVim</code> will be the ultimate text editor.<br>
