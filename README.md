@@ -31,7 +31,7 @@
     🐍 <code>Python</code> is my favorite programming language.<br>
     👑 I strongly believe that <code>NeoVim</code> will be the ultimate text editor.<br>
     🧠 Eager to learn <code>Rust</code> 🦀, <code>Go</code> 🦘, <code>Artificial Intelligence</code> 🤖, and other fascinating topics.<br>
-    🌟 Contributing to <code>Open Source</code> projects and sharing knowledge with the community.<br>
+    🌍 Contributing to <code>Open Source</code> projects and sharing knowledge with the community.<br>
     ⚽ Fan of <code>FC Barcelona</code>, <code>anime</code> 🎌, and <code>video games</code> 🎮.<br>
   </p>
   <br/>
