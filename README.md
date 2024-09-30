@@ -1,9 +1,10 @@
 <!-- Presentation section -->
 <section align="center" style="display: flex; align-items: center;">
-  <a href="https://github.com/RoboG-11" style="height: 75px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=23&duration=4000&pause=102&color=E6D5AC&background=006EFF00&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=75&lines=Hello+World%2C+I'm+Brian;Welcome+to+my+profile+%3AD" 
-         style="max-width: 600px; height: 75px; object-fit: cover;" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Abel&weight=900&size=30&duration=2000&pause=1000&color=C2C2C2&center=true&multiline=true&repeat=false&width=435&height=75&lines=Hello+World%2C+I'm+Brian;Welcome+to+my+profile+%3AD" alt="Typing SVG" />
   </a>
+  <br/>
+  <br/>
   
   <a href="https://github.com/RoboG-11" style="width: 100%; max-width: 829px; height: auto;">
     <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" 
@@ -52,9 +53,11 @@
       <a href="https://github.com/RoboG-11"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="c" width="75" height="75"></a>
       <a href="https://github.com/RoboG-11"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="php" width="75" height="75"></a>
       <a href="https://github.com/RoboG-11"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="docker" width="75" height="75"></a>
+      <a href="https://github.com/RoboG-11"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="aws" width="75" height="75"></a>
     </div>
     <div style="display: flex; flex-direction: column; gap: 15px;">
       <a href="https://github.com/RoboG-11"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="react" width="75" height="75"></a>
+      <a href="https://github.com/RoboG-11"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Svelte.svg" alt="svelte" width="75" height="75"></a>
       <a href="https://github.com/RoboG-11"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" alt="sass" width="75" height="75"></a>
       <a href="https://github.com/RoboG-11"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="tailwind" width="75" height="75"></a>
       <a href="https://github.com/RoboG-11"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="sql" width="75" height="75"></a>
@@ -72,5 +75,8 @@
 <!-- Activity section -->
 ## > <code>⠀⠀💼 Activity⠀⠀</code> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejg3ZG05MjZ0ZGttaTB1czEyYW9peHdmdG0ycjdzNDJ4MTkxM2N4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UdjU3Rt39cCzPZQHtb/giphy.webp" width="50px"/>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RoboG-11&theme=merko&area=true&custom_title=RoboG's%20github%20activity%20graph)](https://github.com/RoboG-11)
-*Note: The activity shown in the chart is according to activity in public repositories and does not reflect experience or skill level.*
+<section align="center">
+  <i>Note: The activity shown in the chart is according to activity in public repositories and does not reflect experience or skill level.</i>
+</section>
+
 <br/>
