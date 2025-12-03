@@ -60,8 +60,8 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="75" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="75" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="75" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="75" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="75" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="75" />
   </p>
 </div>
 
@@ -69,12 +69,12 @@
   <p align="center">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="75" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Svelte.svg" width="75" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" width="75" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="75" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="75" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="75" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="75" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" width="75" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="75" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" width="75" />
   </p>
 </div>
