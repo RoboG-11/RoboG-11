@@ -47,37 +47,39 @@
 </div>
 
 
+
 ## > <code>⠀⠀💻 Languages and Tools⠀⠀</code> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FiNXp0azN5MnZ0dGZ3cTl6aGkydzlieGNhc2xoOTloM3UycWx5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJsjsm6dhNPiQBvztq/giphy.webp" width="50px"/>
 
 <div align="center">
 
-<div style="display:inline-block; margin: 0 25px;">
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="75" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="75" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="75" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="75" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="75" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="75" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="75" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="75" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="75" />
-  </p>
-</div>
-
-<div style="display:inline-block; margin: 0 25px;">
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="75" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Svelte.svg" width="75" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="75" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="75" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="75" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="75" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" width="75" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="75" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" width="75" />
-  </p>
-</div>
+  <div style="display:inline-block; margin: 0 25px;">
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="75" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="75" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="75" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" width="75" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="75" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" width="75" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="75" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" width="75" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="75" />
+    </p>
+  </div>
+  
+  <div style="display:inline-block; margin: 0 25px;">
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="75" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Svelte.svg" width="75" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="75" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="75" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="75" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="75" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" width="75" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="75" />
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" width="75" />
+    </p>
+  </div>
+  <br/>
 </div>
 
 
