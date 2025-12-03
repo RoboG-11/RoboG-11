@@ -37,12 +37,11 @@
     🏫 I'm studying <code>Computer Engineering</code> at the <code>Universidad Autónoma Metropolitana</code>.<br>
     🏙️ I live in Mexico City, <code>Mexico</code>.<br>
     🚀 Passionate about learning <code>new technologies</code> and working on <code>personal projects</code>.<br>
-    🐍 <code>Python</code> is my favorite programming language.<br>
-    👑 I strongly believe that <code>NeoVim</code> will be the ultimate text editor.<br>
-    🤖 Curious about <code>Artificial Intelligence</code>, <code>Cloud Engineering</code>, and <code>Full Stack</code>.<br>
-    🌍 Contributing to <code>Open Source</code> projects and sharing knowledge with the community.<br>
+    🐍 I feel most comfortable working with <code>Python</code>.<br>
+    🛠️ I enjoy customizing my workflow and use <code>NeoVim</code> as my main editor.<br>
+    🤖 Curious about <code>Artificial Intelligence</code>, <code>Cloud Engineering</code>, and <code>Full Stack Development</code>.<br>
     🌍 Active supporter of <code>open-source</code>, collaboration, and knowledge sharing.<br>
-    ⚽ Fan of <code>FC Barcelona</code>, <code>anime</code> 🎌, and <code>video games</code> 🎮.<br>
+    ⚽ Fan of <code>FC Barcelona</code>, <code>anime</code>, and <code>video games</code>.<br>
   </p>
   <br/>
 </div>
